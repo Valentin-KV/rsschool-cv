@@ -5,8 +5,8 @@ Valentin Krivenko
 ## Contact:
 
 * e-mail: krivenko.vg@yandex.ru
-* GitHub: [https://github.com/Valentin-KV](Valentin-KV)
-* Discord: [@Varg#9647]()
+* GitHub: [valentin-kv](https://github.com/Valentin-KV "Valentin-KV")
+* Discord: @Varg#9647
 
 ## My experience:
 
@@ -32,7 +32,7 @@ function even_or_odd(number) {
 
 ## Link:
 
-[https://github.com/Valentin-KV/rsschool-cv/blob/gh-pages/cv.md](My cv project)
+[My cv project](https://github.com/Valentin-KV/rsschool-cv/blob/gh-pages/cv.md "CV")
 
 ## Languages:
 
