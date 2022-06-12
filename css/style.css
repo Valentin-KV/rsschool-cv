@@ -10,8 +10,16 @@ body {
 
   .nav-list  {
     list-style: none;
-    margin: 0;
-    padding-left: 0;
+    margin: 0 auto 30px;
+    padding: 1em 0;
+    background: #ECDAD6;
+  }
+
+  .nav-list a {
+    padding: 1em;
+    background: rgba(189, 165, 157, 0.3);
+    border-right: 1px solid #998a86;
+    color: #3a312f;
   }
   
   a {
