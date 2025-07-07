@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 body {
   margin: 0;
   padding: 0;
@@ -6,28 +9,34 @@ body {
   justify-content: space-between;
   align-items: center;
   height: 100vh;
-  background-color: rgb(235, 182, 163);
+  background-color: rgb(208, 231, 230);
 }
 .container {
   max-width: 1440px;
-  margin: 0 auto;
+  margin: 0 20px;
   padding: 0;
 }
 .nav-list  {
+  display: flex;
+  flex-wrap: wrap;
   list-style: none;
   margin: 0 auto 30px;
   padding: 1em 0;
+  gap: 10px;
 }
 .nav-list a {
   padding: 1em;
   border-right: 1px solid #998a86;
   color: #3a312f;
 }
+.nav-list li:last-child a{
+  border-right: none;
+}
 a {
   text-decoration: none;
 }
 .nav__item {
-  display: inline;
+  display: flex;
 }
 .name__section {
   text-align: center;
@@ -52,6 +61,7 @@ a {
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
+  margin: 0 20px;
 }
 .rsschool-link {
   width: 60px;
